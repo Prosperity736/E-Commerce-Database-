@@ -5,8 +5,7 @@ E-commerce Database with Full schema, Inserted data, roles and security and all 
 
 
 
-``SQL 
-  ```CREATE DATABASE E_commerceDB;
+```CREATE DATABASE E_commerceDB;
 GO
 
 USE E_commerceDB;
